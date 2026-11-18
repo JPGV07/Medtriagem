@@ -1,0 +1,1 @@
+const esqueciSenha = document.getElementById('link-esqueci-senha');
